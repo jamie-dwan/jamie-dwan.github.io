@@ -1,1 +1,1 @@
-vless://ce7c1629-4579-11ef-8924-3cecef0f521e@lister008.serv00.net:38559?flow=&security=none&encryption=none&type=ws&host=lister008.serv00.net&path=/&sni=&fp=&pbk=&sid=#lister008.serv00.vless
+trojan://tomdwan@www.visa.com.sg:8443?security=tls&sni=trog.lostivoryy.workers.dev&type=ws&host=trog.lostivoryy.workers.dev&path=%2F%3Fed%3D2560#trog.lostivoryy.workers.dev
